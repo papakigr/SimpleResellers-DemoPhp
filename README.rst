@@ -10,8 +10,9 @@ config.php
 
 $Papaki_apikey="myapikey"; //place your apikey here
 
+
 Για να δουλεύει σωστά ο κώδικας θα πρέπει να έχετε ορίσει μέσα από το προφίλ σας στο control panel του Papaki.gr,
- την IP του server που τρέχει το site σας.
+την IP του server που τρέχει το site σας.
 
 
 Test environment
